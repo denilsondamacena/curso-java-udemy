@@ -29,8 +29,8 @@
 ### Lista III
 > ```
 >Exercício 1 - Verificar Senha
-> Eercício 2 - Coordenadas
-> Exercício 3 - Posto Combustível
+>Exercício 2 - Coordenadas
+>Exercício 3 - Posto Combustível
 > ```
 
 ### Lista IV
