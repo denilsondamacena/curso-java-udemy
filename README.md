@@ -25,3 +25,22 @@
 >Exercício 7 - Plano Cartesiano
 >Exercício 8 - Cálculo Imposto
 > ```
+
+### Lista III
+> ```
+>Exercício 1 - Verificar Senha
+> Eercício 2 - Coordenadas
+> Exercício 3 - Posto Combustível
+> ```
+
+### Lista IV
+> ```
+> Exercício 1 - Lista Impares
+> Exercício 2 - Lista Intervalo
+> Exercício 3 - Média Ponderada
+> Exercício 4 - Lista Divisão
+> Exercício 5 - Fatorial
+> Exercício 6 - Lista Divisores
+> Exercício 7 - Quadrado Cubo
+> Exercício 8 - Converter Temperatura
+> ```
