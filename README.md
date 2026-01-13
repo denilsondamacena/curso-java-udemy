@@ -44,3 +44,14 @@
 > Exercício 7 - Quadrado Cubo
 > Exercício 8 - Converter Temperatura
 > ```
+
+### Lista V
+> ```
+>Exercício 1 - Maior Área Triângulo
+>Exercício 2 - Estoque
+>Exercício 3 - Medidas Retângulo
+>Exercício 4 - Salário Líquido 
+>Exercício 5 - Cálculo Média
+>Exercício 6 - Raio Circunferência
+>Exercício 7 - Conversor Dólar
+> ```
