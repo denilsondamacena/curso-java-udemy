@@ -25,3 +25,33 @@
 >Exercício 7 - Plano Cartesiano
 >Exercício 8 - Cálculo Imposto
 > ```
+
+### Lista III
+> ```
+>Exercício 1 - Verificar Senha
+>Exercício 2 - Coordenadas
+>Exercício 3 - Posto Combustível
+> ```
+
+### Lista IV
+> ```
+> Exercício 1 - Lista Impares
+> Exercício 2 - Lista Intervalo
+> Exercício 3 - Média Ponderada
+> Exercício 4 - Lista Divisão
+> Exercício 5 - Fatorial
+> Exercício 6 - Lista Divisores
+> Exercício 7 - Quadrado Cubo
+> Exercício 8 - Converter Temperatura
+> ```
+
+### Lista V
+> ```
+>Exercício 1 - Maior Área Triângulo
+>Exercício 2 - Estoque
+>Exercício 3 - Medidas Retângulo
+>Exercício 4 - Salário Líquido 
+>Exercício 5 - Cálculo Média
+>Exercício 6 - Raio Circunferência
+>Exercício 7 - Conversor Dólar
+> ```
