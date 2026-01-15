@@ -55,3 +55,8 @@
 >Exercício 6 - Raio Circunferência
 >Exercício 7 - Conversor Dólar
 > ```
+
+### Lista VI
+> ```
+>Exercício 1 - Caixa Eletrônico
+> ```
