@@ -60,3 +60,20 @@
 > ```
 >Exercício 1 - Caixa Eletrônico
 > ```
+
+### Lista VII
+> ```
+>Exercício 1 - Média Altura
+>Exercício 2 - Preço Médio
+>Exercício 3 - Negativos
+>Exercício 4 - Soma Vetor
+>Exercício 5 - Alturas
+>Exercício 6 - Números Pares
+>Exercício 7 - Maior Posição
+>Exercício 8 - Soma Vetores
+>Exercício 9 - Abaixo da Média
+>Exercício 10 - Média Pares
+>Exercício 11 - Mais Velho
+>Exercício 12 - Aprovados
+>Exercício 13 - Dados Pessoas
+> ```
