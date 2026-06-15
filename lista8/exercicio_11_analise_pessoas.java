@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class AnalisePessoas 
+public class exercicio_11_analise_pessoas 
 {
     public static void main(String[] args) 
     {

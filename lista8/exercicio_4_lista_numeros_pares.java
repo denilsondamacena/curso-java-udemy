@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ListaNumerosPares 
+public class exercicio_4_lista_numeros_pares 
 {
     public static void main(String[] args) 
     {

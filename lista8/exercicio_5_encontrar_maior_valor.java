@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class EncontrarMaiorValor 
+public class exercicio_5_encontrar_maior_valor 
 {
     public static void main(String[] args) 
     {

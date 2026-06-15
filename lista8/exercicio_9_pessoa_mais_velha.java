@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class PessoaMaisVelha 
+public class exercicio_9_pessoa_mais_velha 
 {
     public static void main(String[] args) 
     {

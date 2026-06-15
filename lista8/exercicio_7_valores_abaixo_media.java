@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ValoresAbaixoMedia 
+public class exercicio_7_valores_abaixo_media 
 {
     public static void main(String[] args) 
     {

@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class CalculoMediaPares 
+public class exercicio_8_calculo_media_pares 
 {
     public static void main(String[] args) 
     {

@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ListaAprovados 
+public class exercicio_10_lista_aprovados 
 {
     public static void main(String[] args) 
     {

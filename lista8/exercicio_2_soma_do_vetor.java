@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class CalculoVetor 
+public class exercicio_2_soma_do_vetor
 {
     public static void main(String[] args) 
     {
